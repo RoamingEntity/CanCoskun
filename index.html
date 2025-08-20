@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Creative Portfolio</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Creative Works </h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/stories">Stories</a>
+            <a href="/novellas">Novellas</a>
+            <a href="/music">Music</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>About</h2>
+            <p>This site will showcase my short stories, novellas, and music. I have an eclectic appetite for random creative stuff. This website it to display them all.</p>
+        </section>
+        <section>
+            <h2>Featured Work</h2>
+            <ul>
+                <li><a href="/stories">Example Story</a></li>
+                <li><a href="/novellas">Example Novella</a></li>
+                <li><a href="/music">Example Music Track</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Can Coşkun</p>
+    </footer>
+</body>
+</html>
