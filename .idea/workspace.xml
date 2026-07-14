@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6f92bdd-e86f-4b61-bae2-e444bf21fbcb" name="Changes" comment="Forgot to push :/">
+    <list default="true" id="a6f92bdd-e86f-4b61-bae2-e444bf21fbcb" name="Changes" comment="Added gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -79,6 +82,8 @@
       <updated>1755689496534</updated>
       <workItem from="1784031444779" duration="659000" />
       <workItem from="1784033928361" duration="1970000" />
+      <workItem from="1784041965868" duration="491000" />
+      <workItem from="1784046482981" duration="1763000" />
     </task>
     <task id="LOCAL-00001" summary="Added html files.">
       <option name="closed" value="true" />
@@ -120,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784037660771</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added gitignore">
+      <option name="closed" value="true" />
+      <created>1784042209712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1784042209712</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +156,7 @@
     <MESSAGE value="Fixed links across index files." />
     <MESSAGE value="Is commit not working?" />
     <MESSAGE value="Forgot to push :/" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forgot to push :/" />
+    <MESSAGE value="Added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
   </component>
 </project>
