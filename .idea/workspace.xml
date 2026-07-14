@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6f92bdd-e86f-4b61-bae2-e444bf21fbcb" name="Changes" comment="Added html files.">
-      <change afterPath="$PROJECT_DIR$/Wikis/WikisIndex.html" afterDir="false" />
+    <list default="true" id="a6f92bdd-e86f-4b61-bae2-e444bf21fbcb" name="Changes" comment="Fixed links across index files.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novellas.html" beforeDir="false" afterPath="$PROJECT_DIR$/novellas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/stories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/stories.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755689496534</updated>
       <workItem from="1784031444779" duration="659000" />
-      <workItem from="1784033928361" duration="530000" />
+      <workItem from="1784033928361" duration="1215000" />
     </task>
     <task id="LOCAL-00001" summary="Added html files.">
       <option name="closed" value="true" />
@@ -95,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784032096327</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed links across index files.">
+      <option name="closed" value="true" />
+      <created>1784034487958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1784034487958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Suggested IDE fixes to index" />
     <MESSAGE value="Added html files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added html files." />
+    <MESSAGE value="Fixed links across index files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed links across index files." />
   </component>
 </project>
